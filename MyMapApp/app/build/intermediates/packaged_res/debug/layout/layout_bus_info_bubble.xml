@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bus_info_bubble"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="8dp"
+    android:visibility="gone"
+    android:elevation="100dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:cardBackgroundColor="@android:color/white">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/bubble_route_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ligne 15"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:id="@+id/bubble_destination"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vers Ouest"
+                android:textSize="14sp"
+                android:textColor="@android:color/darker_gray"
+                android:layout_marginBottom="4dp"/>
+
+            <TextView
+                android:id="@+id/bubble_vehicle_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bus n°XXXX"
+                android:textSize="12sp"
+                android:textColor="@android:color/darker_gray"
+                android:layout_marginBottom="8dp"/>
+
+            <Button
+                android:id="@+id/btn_bubble_show_route"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Afficher la ligne"
+                android:textSize="12sp"
+                android:minHeight="0dp"
+                android:padding="0dp"/>
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Arrow (Triangle) -->
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="12dp"
+        android:src="@drawable/ic_arrow_down_bubble"
+        app:tint="@android:color/white"
+        android:layout_marginTop="-2dp"
+        android:elevation="6dp"/>
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.mapapp-mergeDebugResources-38:/layout/dialog_search.xml",
+        "source": "com.example.mapapp-main-41:/layout/dialog_search.xml"
+    },
+    {
+        "merged": "com.example.mapapp-mergeDebugResources-38:/layout/item_search_route.xml",
+        "source": "com.example.mapapp-main-41:/layout/item_search_route.xml"
+    },
+    {
+        "merged": "com.example.mapapp-mergeDebugResources-38:/layout/item_schedule.xml",
+        "source": "com.example.mapapp-main-41:/layout/item_schedule.xml"
+    },
+    {
+        "merged": "com.example.mapapp-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.mapapp-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mapapp-mergeDebugResources-38:/layout/layout_bus_info_bubble.xml",
+        "source": "com.example.mapapp-main-41:/layout/layout_bus_info_bubble.xml"
+    }
+]

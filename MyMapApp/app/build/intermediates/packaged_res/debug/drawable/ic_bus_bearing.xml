@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Triangle remonté pour s'éloigner du cercle (centre 24,24, rayon 14 -> bord y=10) -->
+    <!-- Ancien: y=2 à 10. Nouveau: y=0 à 8. Écart: 2dp -->
+    <!-- Suppression du stroke noir pour un rendu SDF plus propre -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,0 L19,8 L29,8 Z" />
+        
+</vector>

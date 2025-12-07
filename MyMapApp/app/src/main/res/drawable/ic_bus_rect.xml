@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FFFFFF"/> <!-- White solid fill for SDF tinting -->
+    <corners android:radius="8dp"/>
+    <size android:width="48dp" android:height="24dp"/> <!-- Intrinsic size for bitmap conversion -->
+    <stroke android:width="1dp" android:color="#000000"/> <!-- Black border -->
+</shape>

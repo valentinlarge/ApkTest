@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mapapp-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.example.mapapp-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_red_dot.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_red_dot.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/layout_layout_bus_info_bubble.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/layout/layout_bus_info_bubble.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_bus.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_bus.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/layout_dialog_search.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/layout/dialog_search.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/layout_item_search_route.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/layout/item_search_route.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_arrow_down_bubble.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_arrow_down_bubble.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_my_location.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_my_location.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_bus_rect.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_bus_rect.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/layout_item_schedule.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/layout/item_schedule.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_bus_bearing.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_bus_bearing.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_theme.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_theme.xml"
+    },
+    {
+        "merged": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-merged_res-39:/drawable_ic_bus_dot.xml.flat",
+        "source": "/Users/valrntin/.gradle/daemon/8.14.3/com.example.mapapp-main-40:/drawable/ic_bus_dot.xml"
+    }
+]
